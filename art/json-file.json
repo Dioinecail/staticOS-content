@@ -1,0 +1,5 @@
+{
+	"some-id":"somedata",
+	"some-float-id": 10.0,
+	"some-bool": true
+}
