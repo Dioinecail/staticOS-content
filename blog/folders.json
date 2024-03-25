@@ -2,13 +2,13 @@
 	"contents":{
 		"0002":{
 			"index":1,
-			"title":"Getting ready!",
-			"banner":"0002.jpg"
+			"banner":"0002.jpg",
+			"title":"Getting ready!"
 		},
 		"0001":{
 			"index":0,
-			"title":"First Blog!",
-			"banner":"0001.jpg"
+			"banner":"0001.jpg",
+			"title":"First Blog!!!"
 		},
 		"0003":{
 			"index":2,
