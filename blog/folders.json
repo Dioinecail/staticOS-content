@@ -16,9 +16,9 @@
 			"banner":"0003.jpg"
 		},
 		"0004":{
-			"title":"",
 			"index":3,
-			"banner":"0004.jpg"
+			"banner":"0004.jpg",
+			"title":"Testing blog etc."
 		}
 	}
 }
