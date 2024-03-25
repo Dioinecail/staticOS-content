@@ -3,17 +3,22 @@
 		"0002":{
 			"index":1,
 			"title":"Getting ready!",
-			"banner":"0002.png"
+			"banner":"0002.jpg"
 		},
 		"0001":{
 			"index":0,
 			"title":"First Blog!",
-			"banner":"0001.png"
+			"banner":"0001.jpg"
 		},
 		"0003":{
 			"index":2,
 			"title":"Something new!",
-			"banner":""
+			"banner":"0003.jpg"
+		},
+		"0004":{
+			"title":"",
+			"index":3,
+			"banner":"0004.jpg"
 		}
 	}
 }
