@@ -1,24 +1,9 @@
 {
 	"contents":{
-		"0002":{
-			"index":1,
-			"banner":"0002.jpg",
-			"title":"Getting ready!"
-		},
 		"0001":{
 			"index":0,
 			"banner":"0001.jpg",
-			"title":"First Blog!!!"
-		},
-		"0003":{
-			"index":2,
-			"title":"Something new!",
-			"banner":"0003.jpg"
-		},
-		"0004":{
-			"index":3,
-			"banner":"0004.jpg",
-			"title":"Testing blog etc."
+			"title":"Greetings"
 		}
 	}
 }
