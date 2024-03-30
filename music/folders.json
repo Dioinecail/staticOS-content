@@ -1,3 +1,9 @@
 {
-	"contents": []
+	"contents":{
+		"bandcamp":{
+			"index":0,
+			"banner":"bandcamp.jpg",
+			"title":"'bandcamp'"
+		}
+	}
 }
