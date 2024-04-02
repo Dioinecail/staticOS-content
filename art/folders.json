@@ -54,6 +54,11 @@
 			"index":10,
 			"title":"'Tiet Moi'",
 			"banner":"art11_tietmoi.png"
+		},
+		"art12_EP":{
+			"index":11,
+			"banner":"art12_EP.png",
+			"title":"'statc.grl'"
 		}
 	}
 }
