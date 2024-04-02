@@ -3,27 +3,27 @@
 		"0001":{
 			"index":0,
 			"title":"'you are a loser'",
-			"banner":"0001.png"
+			"banner":"0001.jpg"
 		},
 		"art2_tomoko":{
 			"index":1,
-			"banner":"art2_tomoko.png",
+			"banner":"art2_tomoko.jpg",
 			"title":"'my first tattoo was of tomoko kuroki'"
 		},
 		"art3_lovingembrace":{
 			"index":2,
 			"title":"'loving embrace of angel's soft wings'",
-			"banner":"art3_lovingembrace.png"
+			"banner":"art3_lovingembrace.jpg"
 		},
 		"art4_pleasure":{
 			"index":3,
-			"banner":"art4_pleasure.png",
+			"banner":"art4_pleasure.jpg",
 			"title":"'the pleasure is everlasting'"
 		},
 		"art5_accela":{
 			"index":4,
 			"title":"'accela'",
-			"banner":"art5_accela.png"
+			"banner":"art5_accela.jpg"
 		},
 		"art6_aural":{
 			"index":5,
@@ -33,22 +33,22 @@
 		"art7_tpcs":{
 			"index":6,
 			"title":"'tomorrow, please come soon'",
-			"banner":"art7_tpcs.png"
+			"banner":"art7_tpcs.jpg"
 		},
 		"art8_siflae":{
 			"index":7,
 			"title":"'sometimes i feel like an executable'",
-			"banner":"art8_siflae.png"
+			"banner":"art8_siflae.jpg"
 		},
 		"art9_tsg":{
 			"index":8,
 			"title":"'the static girl / i want to be small'",
-			"banner":"art9_tsg.png"
+			"banner":"art9_tsg.jpg"
 		},
 		"8hz_connecton.processng":{
 			"index":9,
 			"title":"'8hz_connecton.processng'",
-			"banner":"8hz_connecton.processng.png"
+			"banner":"8hz_connecton.processng.jpg"
 		},
 		"art11_tietmoi":{
 			"index":10,
