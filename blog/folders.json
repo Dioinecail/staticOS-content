@@ -4,6 +4,11 @@
 			"index":0,
 			"banner":"0001.png",
 			"title":"static.blog01 'greetings'"
+		},
+		"0002":{
+			"index":1,
+			"banner":"0002.png",
+			"title":"static.blog02 'influences'"
 		}
 	}
 }
