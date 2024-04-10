@@ -12,8 +12,8 @@
 		},
 		"0003":{
 			"index":2,
-			"title":"static.blog03 'life'",
-			"banner":"0003.png"
+			"banner":"0003.png",
+			"title":"static.blog03 'life'"
 		}
 	}
 }
