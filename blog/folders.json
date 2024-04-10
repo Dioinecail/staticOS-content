@@ -9,6 +9,11 @@
 			"index":1,
 			"banner":"0002.png",
 			"title":"static.blog02 'influences'"
+		},
+		"0003":{
+			"index":2,
+			"title":"static.blog03 'life'",
+			"banner":"0003.png"
 		}
 	}
 }
