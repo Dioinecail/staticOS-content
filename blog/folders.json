@@ -14,6 +14,11 @@
 			"index":2,
 			"banner":"0003.png",
 			"title":"static.blog03 'life'"
+		},
+		"0004":{
+			"index":3,
+			"title":"static.blog04 'brief memoirs, vol. 1'",
+			"banner":"0004.jpg"
 		}
 	}
 }
