@@ -29,6 +29,11 @@
 			"index":5,
 			"title":"static.blog06 'where is the static girl?'",
 			"banner":"0006.jpg"
+		},
+		"0007":{
+			"index":6,
+			"banner":"0007.jpg",
+			"title":"static.blog07 'stupid fucking ideas'"
 		}
 	}
 }
