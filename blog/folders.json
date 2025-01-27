@@ -39,6 +39,11 @@
 			"index":7,
 			"banner":"0008.jpg",
 			"title":"static.blog08 'the new year'"
+		},
+		"0009":{
+			"index":8,
+			"banner":"0009.jpg",
+			"title":"static.blog09 'worth'"
 		}
 	}
 }
