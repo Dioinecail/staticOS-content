@@ -1,5 +1,14 @@
 {
 	"content": [
-		
+		{ 
+			"id": "0001",
+			"contentType" : "youtube",
+			"title": "static.grl - THE WIRED (full EP stream)",
+			"work": "Soundtrack / Sound Design",
+			"game": "Project Lupus (Working Title)",
+			"gameUrl": "none yet",
+			"year": 2025,
+			"embed": "https://www.youtube.com/embed/_O9c5KRCwLY?si=I1iah9r10ClVBK0e"
+		}
 	]
 }
