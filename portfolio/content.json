@@ -3,12 +3,22 @@
 		{ 
 			"id": "0001",
 			"contentType" : "youtube",
-			"title": "static.grl - THE WIRED (full EP stream)",
+			"title": "Steampanku (GooboShooter Original Soundtrack)",
 			"work": "Soundtrack / Sound Design",
-			"game": "Project Lupus (Working Title)",
-			"gameUrl": "none yet",
+			"game": "GooboShooter",
+			"gameUrl": "https://hanode.itch.io/gooboshooter",
 			"year": 2025,
-			"embed": "https://www.youtube.com/embed/_O9c5KRCwLY?si=I1iah9r10ClVBK0e"
+			"embed": "https://www.youtube.com/embed/g_Yi20FYpVs?si=ZWPNiI7ezc7Tli1Y"
+		},
+		{ 
+			"id": "0002",
+			"contentType" : "youtube",
+			"title": "掃除Plimbo (GooboShooter Original Soundtrack)",
+			"work": "Soundtrack / Sound Design",
+			"game": "GooboShooter",
+			"gameUrl": "https://hanode.itch.io/gooboshooter",
+			"year": 2025,
+			"embed": "https://www.youtube.com/embed/AXE6RJ80Jmc?si=8ri6cyvgeV3GI76e"
 		}
 	]
 }
