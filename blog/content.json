@@ -1,44 +1,60 @@
 {
-	"contents":{
-		"0001":{
+	"contents":[
+		{
 			"index":0,
-			"banner":"0001.png",
+			"path":"blog/0001",
+			"type":"content",
+			"banner":"blog/0001.png",
 			"title":"static.blog01 'greetings'"
 		},
-		"0002":{
+		{
 			"index":1,
-			"banner":"0002.png",
+			"banner":"blog/0002.png",
+			"path":"blog/0002",
+			"type":"content",
 			"title":"static.blog02 'influences'"
 		},
-		"0003":{
+		{
 			"index":2,
-			"banner":"0003.png",
-			"title":"static.blog03 'life'"
+			"title":"static.blog03 'life'",
+			"banner":"blog/0003.png",
+			"path":"blog/0003",
+			"type":"content"
 		},
-		"0004":{
+		{
 			"index":3,
 			"title":"static.blog04 'brief memoirs, vol. 1'",
-			"banner":"0004.jpg"
+			"banner":"blog/0004.jpg",
+			"path":"blog/0004",
+			"type":"content"
 		},
-		"0005":{
+		{
 			"index":4,
 			"title":"static.blog05 'lamenting'",
-			"banner":"0005.jpg"
+			"banner":"blog/0005.jpg",
+			"path":"blog/0005",
+			"type":"content"
 		},
-		"0006":{
+		{
 			"index":5,
 			"title":"static.blog06 'where is the static girl?'",
-			"banner":"0006.jpg"
+			"banner":"blog/0006.jpg",
+			"path":"blog/0006",
+			"type":"content"
 		},
-		"0007":{
+		{
 			"index":6,
-			"banner":"0007.jpg",
-			"title":"static.blog07 'stupid fucking ideas'"
+			"title":"static.blog07 'stupid fucking ideas'",
+			"banner":"blog/0007.jpg",
+			"path":"blog/0007",
+			"type":"content"
 		},
-		"0008":{
+		{
 			"index":7,
-			"banner":"0008.jpg",
-			"title":"static.blog08 'the new year'"
+			"title":"static.blog08 'the new year'",
+			"banner":"blog/0008.jpg",
+			"path":"blog/0008",
+			"type":"content"
 		}
-	}
+	]
 }

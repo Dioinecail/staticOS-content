@@ -1,14 +1,18 @@
 {
-	"contents":{
-		"cover_art":{
+	"contents":[
+		{
 			"index":0,
 			"title":"'cover art'",
-			"banner":"cover_art.jpg"
+			"banner":"art/cover_art.jpg",
+			"path":"art/cover_art",
+			"type":"folder"
 		},
-		"the_ballad_of_yuki":{
+		{
 			"index":1,
 			"title":"'the ballad of yuki'",
-			"banner":"the_ballad_of_yuki.jpg"
+			"banner":"art/the_ballad_of_yuki.jpg",
+			"path":"art/huh",
+			"type":"folder"
 		}
-	}
+	]
 }
