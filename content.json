@@ -19,14 +19,14 @@
 			"title": "friends",
 			"banner":"",
 			"path": "friends",
-			"type": "folder"
+			"type": "content"
 		},
 		{
 			"index": 3,
 			"title": "links",
 			"banner": "",
 			"path": "links",
-			"type": "folder"
+			"type": "content"
 		},
 		{
 			"index": 4,
@@ -40,7 +40,7 @@
 			"title": "portfolio",
 			"banner": "",
 			"path": "portfolio",
-			"type": "folder"
+			"type": "content"
 		}
 	]
 }
