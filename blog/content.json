@@ -55,6 +55,34 @@
 			"banner":"blog/0008.jpg",
 			"path":"blog/0008",
 			"type":"content"
+		},
+		{
+			"index":8,
+			"banner":"0009.jpg",
+			"title":"static.blog09 'worth'",
+			"path":"blog/0009",
+			"type":"content"
+		},
+		{
+			"index":9,
+			"banner":"0010.jpg",
+			"title":"static.blog10 'Animal Crossing, pt. 1'",
+			"path":"blog/0010",
+			"type":"content"
+		},
+		{
+			"index":10,
+			"banner":"0011.jpg",
+			"title":"static.blog11 'Animal Crossing, pt. 2'",
+			"path":"blog/0011",
+			"type":"content"
+		},
+		{
+			"index":11,
+			"banner":"0012.png",
+			"title":"static.blog12 'newww'",
+			"path":"blog/0012",
+			"type":"content"
 		}
 	]
 }
