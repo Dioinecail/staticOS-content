@@ -5,7 +5,14 @@
 			"path":"art/the-ballad-of-yuki/[ep1]",
 			"type":"content",
 			"title":"[ep1]",
-			"banner":"art/the-ballad-of-yuki/[ep1].JPG"
+			"banner":"art/the-ballad-of-yuki/[ep1].png"
+		},
+		{
+			"index":1,
+			"path":"art/the-ballad-of-yuki/[ep2]",
+			"type":"content",
+			"title":"[ep2]",
+			"banner":"art/the-ballad-of-yuki/[ep2].png"
 		}
 	]
 }
