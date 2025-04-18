@@ -3,15 +3,15 @@
 		{
 			"index":0,
 			"title":"'cover art'",
-			"banner":"art/cover_art.jpg",
+			"banner":"",
 			"path":"art/cover_art",
 			"type":"folder"
 		},
 		{
 			"index":1,
 			"title":"'the ballad of yuki'",
-			"banner":"art/the_ballad_of_yuki.jpg",
-			"path":"art/huh",
+			"banner":"",
+			"path":"art/the-ballad-of-yuki",
 			"type":"folder"
 		}
 	]
