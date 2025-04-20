@@ -44,17 +44,17 @@
 		},
 		{
 			"index":6,
-			"banner":"",
 			"path":"art/the-ballad-of-yuki/[ep7]",
 			"type":"content",
-			"title":"[ep7]"
+			"title":"[ep7]",
+			"banner":"art/the-ballad-of-yuki/[ep7].png"
 		},
 		{
 			"index":7,
-			"banner":"",
 			"path":"art/the-ballad-of-yuki/[ep8]",
 			"type":"content",
-			"title":"[ep8]"
+			"title":"[ep8]",
+			"banner":"art/the-ballad-of-yuki/[ep8].png"
 		},
 		{
 			"index":8,
