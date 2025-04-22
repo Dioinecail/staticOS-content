@@ -66,16 +66,16 @@
 		{
 			"index":9,
 			"banner":"blog/0010.jpg",
-			"title":"static.blog10 'Animal Crossing, pt. 1'",
 			"path":"blog/0010",
-			"type":"content"
+			"type":"content",
+			"title":"static.blog10 'Animal Crossing, pt. 1'"
 		},
 		{
 			"index":10,
 			"banner":"blog/0011.jpg",
-			"title":"static.blog11 'Animal Crossing, pt. 2'",
 			"path":"blog/0011",
-			"type":"content"
+			"type":"content",
+			"title":"static.blog11 'Animal Crossing, pt. 2'"
 		},
 		{
 			"index":11,
@@ -83,6 +83,13 @@
 			"title":"static.blog12 'newww'",
 			"path":"blog/0012",
 			"type":"content"
+		},
+		{
+			"index":12,
+			"path":"blog/static.blog13 'breaks'",
+			"type":"content",
+			"banner":"blog/static.blog13 'breaks'.png",
+			"title":"static.blog13 'love'"
 		}
 	]
 }
