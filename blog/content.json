@@ -90,6 +90,13 @@
 			"type":"content",
 			"banner":"blog/static.blog13 'breaks'.png",
 			"title":"static.blog13 'love'"
+		},
+		{
+			"index":13,
+			"path":"blog/static.blog14 'GUYAG'",
+			"type":"content",
+			"title":"static.blog14 'GUYAG'",
+			"banner":"blog/static.blog14 'GUYAG'.png"
 		}
 	]
 }
