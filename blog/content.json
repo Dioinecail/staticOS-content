@@ -97,6 +97,13 @@
 			"type":"content",
 			"title":"static.blog14 'GUYAG'",
 			"banner":"blog/static.blog14 'GUYAG'.png"
+		},
+		{
+			"index":14,
+			"path":"blog/static.blog15 'Pinterest'",
+			"type":"content",
+			"title":"static.blog15 'Pinterest'",
+			"banner":"blog/static.blog15 'Pinterest'.jpg"
 		}
 	]
 }
