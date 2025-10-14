@@ -104,6 +104,13 @@
 			"type":"content",
 			"title":"static.blog15 'Pinterest'",
 			"banner":"blog/static.blog15 'Pinterest'.jpg"
+		},
+		{
+			"index":15,
+			"path":"blog/static.blog09",
+			"type":"content",
+			"banner":"blog/static.blog09.png",
+			"title":"static.blog16 'static on static'"
 		}
 	]
 }
