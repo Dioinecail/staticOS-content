@@ -111,6 +111,13 @@
 			"type":"content",
 			"banner":"blog/static.blog09.png",
 			"title":"static.blog16 'static on static'"
+		},
+		{
+			"index":16,
+			"path":"blog/static.blog17 'cold hands'",
+			"type":"content",
+			"title":"static.blog17 'cold hands'",
+			"banner":"blog/static.blog17 'cold hands'.jpg"
 		}
 	]
 }
