@@ -83,6 +83,104 @@
 			"title":"'statc.grl'",
 			"path":"art/cover_art/art12_EP",
 			"type":"content"
+		},
+		{
+			"index":12,
+			"path":"art/cover_art/'i just have trouble understanding the world sometimes'",
+			"type":"content",
+			"title":"'i just have trouble understanding the world sometimes'",
+			"banner":"art/cover_art/'i just have trouble understanding the world sometimes'.png"
+		},
+		{
+			"index":13,
+			"path":"art/cover_art/'mokocchi (static.grl remix) [stc.grl.remix.1.022_bonus1]'",
+			"type":"content",
+			"title":"'mokocchi (static.grl remix) [stc.grl.remix.1.022_bonus1]'",
+			"banner":"art/cover_art/'mokocchi (static.grl remix) [stc.grl.remix.1.022_bonus1]'.png"
+		},
+		{
+			"index":14,
+			"path":"art/cover_art/'the stupidest fucking idea (alt, d0t.r0t)'",
+			"type":"content",
+			"title":"'the stupidest fucking idea (alt, d0t.r0t)'",
+			"banner":"art/cover_art/'the stupidest fucking idea (alt, d0t.r0t)'.jpg"
+		},
+		{
+			"index":15,
+			"path":"art/cover_art/'stupid fucking ideas'",
+			"type":"content",
+			"title":"'stupid fucking ideas'",
+			"banner":"art/cover_art/'stupid fucking ideas'.png"
+		},
+		{
+			"index":16,
+			"path":"art/cover_art/'loving the wired'",
+			"type":"content",
+			"title":"'loving the wired'",
+			"banner":"art/cover_art/'loving the wired'.png"
+		},
+		{
+			"index":17,
+			"path":"art/cover_art/'THE WIRED'",
+			"type":"content",
+			"banner":"art/cover_art/'THE WIRED'.png",
+			"title":"'THE WIRED'"
+		},
+		{
+			"index":18,
+			"path":"art/cover_art/'Clockwork PlimboCore'",
+			"type":"content",
+			"title":"'Clockwork PlimboCore'",
+			"banner":"art/cover_art/'Clockwork PlimboCore'.png"
+		},
+		{
+			"index":19,
+			"path":"art/cover_art/'nothing will ever be enough (1)'",
+			"type":"content",
+			"title":"'nothing will ever be enough (1)'",
+			"banner":"art/cover_art/'nothing will ever be enough (1)'.png"
+		},
+		{
+			"index":20,
+			"path":"art/cover_art/'A Shattered Farm (vol. 1)'",
+			"type":"content",
+			"title":"'A Shattered Farm (vol. 1)'",
+			"banner":"art/cover_art/'A Shattered Farm (vol. 1)'.png"
+		},
+		{
+			"index":21,
+			"path":"art/cover_art/'girls in my dreams are made up of static interference'",
+			"type":"content",
+			"banner":"art/cover_art/'girls in my dreams are made up of static interference'.png",
+			"title":"'girls in my dreams are made up of static interference'"
+		},
+		{
+			"index":22,
+			"path":"art/cover_art/'And So You Will Go Until You Are Gone'",
+			"type":"content",
+			"title":"'And So You Will Go Until You Are Gone (2)'",
+			"banner":"art/cover_art/'And So You Will Go Until You Are Gone'.jpg"
+		},
+		{
+			"index":23,
+			"path":"art/cover_art/'Progue Ramming Sox'",
+			"type":"content",
+			"banner":"art/cover_art/'Progue Ramming Sox'.png",
+			"title":"'Progue Ramming Sox'"
+		},
+		{
+			"index":24,
+			"path":"art/cover_art/'STVTIC SIMVLVTION'",
+			"type":"content",
+			"title":"'STVTIC SIMVLVTION'",
+			"banner":"art/cover_art/'STVTIC SIMVLVTION'.png"
+		},
+		{
+			"index":25,
+			"path":"art/cover_art/'Diet Oke'",
+			"type":"content",
+			"title":"'Diet Oke'",
+			"banner":"art/cover_art/'Diet Oke'.png"
 		}
 	]
 }
