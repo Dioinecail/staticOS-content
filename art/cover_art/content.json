@@ -181,6 +181,13 @@
 			"type":"content",
 			"title":"'Diet Oke'",
 			"banner":"art/cover_art/'Diet Oke'.png"
+		},
+		{
+			"index":26,
+			"path":"art/cover_art/'Classix 1g Preroll'",
+			"type":"content",
+			"title":"'Classix 1g Preroll'",
+			"banner":"art/cover_art/'Classix 1g Preroll'.png"
 		}
 	]
 }

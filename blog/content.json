@@ -118,6 +118,13 @@
 			"type":"content",
 			"title":"static.blog17 'cold hands'",
 			"banner":"blog/static.blog17 'cold hands'.jpg"
+		},
+		{
+			"index":17,
+			"path":"blog/static.blog18 'discord server'",
+			"type":"content",
+			"title":"static.blog18 'discord server'",
+			"banner":"blog/static.blog18 'discord server'.png"
 		}
 	]
 }
