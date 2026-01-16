@@ -95,8 +95,8 @@
 			"index":13,
 			"path":"blog/static.blog14 'GUYAG'",
 			"type":"content",
-			"title":"static.blog14 'GUYAG'",
-			"banner":"blog/static.blog14 'GUYAG'.png"
+			"banner":"blog/static.blog14 'GUYAG'.png",
+			"title":"static.blog14 'GUYAG'"
 		},
 		{
 			"index":14,
@@ -125,6 +125,20 @@
 			"type":"content",
 			"title":"static.blog18 'discord server'",
 			"banner":"blog/static.blog18 'discord server'.png"
+		},
+		{
+			"index":18,
+			"path":"blog/static.blog19 'GO UNTIL YOU ARE GONE'",
+			"type":"content",
+			"banner":"blog/static.blog19 'GO UNTIL YOU ARE GONE'.png",
+			"title":"static.blog19 'GO UNTIL YOU ARE GONE'"
+		},
+		{
+			"index":19,
+			"path":"blog/static.blog20 '2013.04-07'",
+			"type":"content",
+			"banner":"blog/static.blog20 '2013.04-07'.JPG",
+			"title":"static.blog20 '2013.04-07'"
 		}
 	]
 }
