@@ -59,9 +59,9 @@
 		{
 			"index":8,
 			"banner":"blog/0009.jpg",
-			"title":"static.blog09 'worth'",
 			"path":"blog/0009",
-			"type":"content"
+			"type":"content",
+			"title":"static.blog09 'worth'"
 		},
 		{
 			"index":9,
