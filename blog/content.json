@@ -146,7 +146,8 @@
 			"path":"blog/static.blog21 'paddling in the wake'",
 			"type":"content",
 			"banner":"blog/static.blog21 'paddling in the wake'.png",
-			"title":"static.blog21 'paddling in the wake'"
+			"title":"static.blog21 'paddling in the wake'",
+			"isPublished":false
 		}
 	]
 }
