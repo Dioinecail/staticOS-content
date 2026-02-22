@@ -188,6 +188,20 @@
 			"type":"content",
 			"title":"'Classix 1g Preroll'",
 			"banner":"art/cover_art/'Classix 1g Preroll'.png"
+		},
+		{
+			"index":27,
+			"path":"art/cover_art/'Wight Monster'",
+			"type":"content",
+			"title":"'Wight Monster'",
+			"banner":"art/cover_art/'Wight Monster'.png"
+		},
+		{
+			"index":28,
+			"path":"art/cover_art/'GO UNTIL YOU ARE GONE'",
+			"type":"content",
+			"title":"'GO UNTIL YOU ARE GONE'",
+			"banner":"art/cover_art/'GO UNTIL YOU ARE GONE'.png"
 		}
 	]
 }
