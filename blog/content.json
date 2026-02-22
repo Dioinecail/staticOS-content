@@ -138,8 +138,8 @@
 			"path":"blog/static.blog20 '2013.04-07'",
 			"type":"content",
 			"banner":"blog/static.blog20 '2013.04-07'.JPG",
-			"isPublished":false,
-			"title":"static.blog20 '20130407'"
+			"title":"static.blog20 '20130407'",
+			"isPublished":true
 		},
 		{
 			"index":20,
