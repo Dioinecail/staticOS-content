@@ -138,16 +138,23 @@
 			"path":"blog/static.blog20 '2013.04-07'",
 			"type":"content",
 			"banner":"blog/static.blog20 '2013.04-07'.JPG",
-			"title":"static.blog20 '20130407'",
-			"isPublished":true
+			"isPublished":true,
+			"title":"static.blog20 '20130407'"
 		},
 		{
 			"index":20,
 			"path":"blog/static.blog21 'paddling in the wake'",
 			"type":"content",
 			"banner":"blog/static.blog21 'paddling in the wake'.png",
-			"title":"static.blog21 'paddling in the wake'",
-			"isPublished":true
+			"isPublished":true,
+			"title":"static.blog21 'paddling in the wake'"
+		},
+		{
+			"index":21,
+			"path":"blog/static.blog22 'nobody likes me!!'",
+			"type":"content",
+			"banner":"blog/static.blog22 'nobody likes me!!'.jpg",
+			"title":"static.blog22 'nobody likes me!!'"
 		}
 	]
 }
